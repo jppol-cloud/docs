@@ -6,10 +6,10 @@ permalink: /
 domain: public
 ---
 
-# JPPOL Cloud
+# Cloud Platform
 {: .fs-9 }
 
-Public documentation for jppol-cloud infrastructure and services.
+Public documentation for jppol-cloud infrastructure.
 {: .fs-6 .fw-300 }
 
 ---
